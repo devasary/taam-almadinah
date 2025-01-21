@@ -1,0 +1,42 @@
+body {
+  background-color: #d4f6ff;
+}
+
+.nunito-reguler {
+  font-family: "Nunito", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nunito-bold {
+  font-family: "Nunito", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.primary-background {
+  background-color: #d4f6ff;
+}
+
+.secondary-background {
+  background-color: #fbfbfb;
+}
+
+/* custom button */
+.btn-accent {
+  background-color: #ffddae !important;
+  color: #824203 !important;
+}
+
+.text-color-brown {
+  color: #824203;
+}
+
+/* custom navbar */
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #824203;
+}
